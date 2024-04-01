@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\valerij\Downloads\loader-averta-figma_(3)\loader-averta-figm\examples\example_win32_directx9\main.cpp(43,5): error C2731: 'WinMain': function cannot be overloaded
+C:\Users\valerij\Downloads\loader-averta-figma_(3)\loader-averta-figm\examples\example_win32_directx9\main.cpp(43,5): message : see declaration of 'WinMain'
+C:\Users\valerij\Downloads\loader-averta-figma_(3)\loader-averta-figm\examples\example_win32_directx9\main.cpp(50,227): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\valerij\Downloads\loader-averta-figma_(3)\loader-averta-figm\examples\example_win32_directx9\main.cpp(50,205): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\valerij\Downloads\loader-averta-figma_(3)\loader-averta-figm\examples\example_win32_directx9\main.cpp(50,159): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\valerij\Downloads\loader-averta-figma_(3)\loader-averta-figm\examples\example_win32_directx9\main.cpp(50,118): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\valerij\Downloads\loader-averta-figma_(3)\loader-averta-figm\examples\example_win32_directx9\main.cpp(55,154): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\valerij\Downloads\loader-averta-figma_(3)\loader-averta-figm\examples\example_win32_directx9\main.cpp(55,122): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\valerij\Downloads\loader-averta-figma_(3)\loader-averta-figm\examples\example_win32_directx9\main.cpp(55,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\valerij\Downloads\loader-averta-figma_(3)\loader-averta-figm\examples\example_win32_directx9\main.cpp(55,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
